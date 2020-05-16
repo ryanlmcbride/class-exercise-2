@@ -1,6 +1,6 @@
 # PHP Class Exercise
 
-## Completing your assingment
+## Completing your assignment
 Refer to index.php to complete this assignment. Your job is to update the bootstrap template with content about YOU! Apply the skills you learned from Indigo's tutorial!
 
 ## Submitting your assignment
